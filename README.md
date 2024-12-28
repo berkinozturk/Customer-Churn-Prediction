@@ -86,7 +86,7 @@ Place the following files in the same directory:
 ### Step 2: Set Up the Environment
 
 -   Install Python (version 3.7 or higher) and Jupyter Notebook.
--   There is a requirements.txt folder for installing the required libraries, run: pip install -r requirements.txt
+-   There is a requirements.txt folder for installing the required libraries, run: pip install -r requirements.txt (If you face any problems, please feel free to reach us)
 -   Ensure required libraries are installed.
 
 ### Step 3: Execute the Code
